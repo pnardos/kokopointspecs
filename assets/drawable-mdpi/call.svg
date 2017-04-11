@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>call</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.6,12.1333333 C7.77777778,16.4888889 11.5111111,20.0666667 15.8666667,22.4 L19.2888889,18.9777778 C19.7555556,18.5111111 20.3777778,18.3555556 20.8444444,18.6666667 C22.5555556,19.2888889 24.4222222,19.6 26.4444444,19.6 C27.3777778,19.6 28,20.2222222 28,21.1555556 L28,26.4444444 C28,27.3777778 27.3777778,28 26.4444444,28 C11.8222222,28 0,16.1777778 0,1.55555556 C0,0.622222222 0.622222222,0 1.55555556,0 L7,0 C7.93333333,0 8.55555556,0.622222222 8.55555556,1.55555556 C8.55555556,3.42222222 8.86666667,5.28888889 9.48888889,7.15555556 C9.64444444,7.62222222 9.48888889,8.24444444 9.17777778,8.71111111 L5.6,12.1333333 L5.6,12.1333333 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1.5" y="-1.5" width="31" height="31">
+            <rect x="-1.5" y="-1.5" width="31" height="31" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.6">
+        <g id="Login-Screen-with-phone-number" transform="translate(-243.000000, -283.000000)" stroke="#0B0A3E" stroke-width="3">
+            <g id="Group-2" transform="translate(244.000000, 252.000000)">
+                <g id="Phone-Number">
+                    <g id="call" transform="translate(1.000000, 33.000000)">
+                        <use id="Shape" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
