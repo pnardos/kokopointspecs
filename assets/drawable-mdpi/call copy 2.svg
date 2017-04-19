@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>call</title>
+    <title>call copy 2</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M4.40999985,9.53717318 C6.12499979,12.9607738 9.06499969,15.7730172 12.4949996,17.6070889 L15.1899995,14.917117 C15.5574995,14.5503027 16.0474994,14.4280312 16.4149994,14.6725741 C17.7624994,15.1616599 19.2324993,15.4062028 20.8249993,15.4062028 C21.5599993,15.4062028 22.0499992,15.8952886 22.0499992,16.6289173 L22.0499992,20.7861467 C22.0499992,21.5197754 21.5599993,22.0088612 20.8249993,22.0088612 C9.30999968,22.0088612 0,12.7162309 0,1.22271451 C0,0.489085804 0.489999983,0 1.22499996,0 L5.51249981,0 C6.24749978,0 6.73749977,0.489085804 6.73749977,1.22271451 C6.73749977,2.68997192 6.98249976,4.15722933 7.47249974,5.62448675 C7.59499974,5.9913011 7.47249974,6.4803869 7.22749975,6.84720126 L4.40999985,9.53717318 L4.40999985,9.53717318 Z" id="path-1"></path>
@@ -11,10 +11,10 @@
         </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.6">
-        <g id="Create-account---Enter-Phone-number-Terms-overlay-Screen--tweaks" transform="translate(-464.000000, -217.000000)" stroke="#0B0A3E" stroke-width="3">
+        <g id="Create-account---Enter-Phone-number-Terms-overlay-Screen--tweaks" transform="translate(-464.000000, -146.000000)" stroke="#0B0A3E" stroke-width="3">
             <g id="Group-2" transform="translate(198.000000, 136.000000)">
-                <g id="Phone-Number-Copy-2" transform="translate(0.000000, 71.000000)">
-                    <g id="call" transform="translate(268.000000, 12.000000)">
+                <g id="Phone-Number" transform="translate(36.000000, 0.000000)">
+                    <g id="call-copy-2" transform="translate(232.000000, 12.000000)">
                         <use id="Shape" mask="url(#mask-2)" xlink:href="#path-1"></use>
                     </g>
                 </g>
